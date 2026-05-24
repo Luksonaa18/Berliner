@@ -9,9 +9,9 @@
 body {
   background-color: #8c9c86;
 }
-h1 {
-  color: #634d3d;
+h1{
+  font-weight: bold;
 }
-p {
-  color: #634d3d;
+p{
+  font-weight: bold;
 }

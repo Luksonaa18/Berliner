@@ -299,7 +299,7 @@ const ContentP = () => {
                 ${isActive ? "scale-100 opacity-100" : "scale-90 opacity-60"}
               `}
                   >
-                    <div className="relative w-full max-w-2xl h-[55vh] min-h-[320px] rounded-3xl overflow-hidden border border-white/10 bg-white/5 backdrop-blur-xl shadow-[0_30px_80px_rgba(0,0,0,0.35)]">
+                    <div className="relative w-full max-w-2xl h-[55vh] min-h-[320px] rounded-3xl overflow-hidden border border-white/10 bg-white/5 backdrop-blur-xl ">
                       <Image
                         src={img}
                         alt={`product-${idx}`}
